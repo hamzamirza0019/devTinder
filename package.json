@@ -1,0 +1,22 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "tinder for devs",
+  "keywords": [
+    "node",
+    "javascript",
+    "tender",
+    "web",
+    "tender"
+  ],
+  "license": "ISC",
+  "author": "Hamza Mirza",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
